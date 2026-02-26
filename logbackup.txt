@@ -1,0 +1,205 @@
+nohup: ignoring input
+INFO - fast_ddpm_main.py - 2026-02-11 11:28:22,029 - Using device: cuda
+INFO - fast_ddpm_main.py - 2026-02-11 11:28:22,030 - Writing log file to ./train_out/logs/ldfd_ddpm_run1
+INFO - fast_ddpm_main.py - 2026-02-11 11:28:22,030 - Exp instance id = 88238
+INFO - fast_ddpm_main.py - 2026-02-11 11:28:22,030 - Exp comment = 
+Start inference on model of 550000 steps
+starting from image 0
+Start training model on LDFDCT dataset.
+The inference sample type is generalized. The scheduler sampling type is uniform. The number of involved time steps is 10 out of 1000.
+The length of test set is: 610
+
+Generating image samples for FID evaluation.: 0it [00:00, ?it/s]INFO - diffusion.py - 2026-02-11 11:28:37,674 - Case L333: PSNR 31.937418969302623, SSIM 0.9138660219708623, time 11.267048120498657
+
+Generating image samples for FID evaluation.: 1it [00:12, 12.31s/it]INFO - diffusion.py - 2026-02-11 11:28:43,324 - Case L333: PSNR 32.4336998539472, SSIM 0.9083125373361508, time 4.8409199714660645
+
+Generating image samples for FID evaluation.: 2it [00:17,  8.39s/it]INFO - diffusion.py - 2026-02-11 11:28:48,962 - Case L333: PSNR 30.174302203865913, SSIM 0.8859268524337442, time 4.826608896255493
+
+Generating image samples for FID evaluation.: 3it [00:23,  7.15s/it]INFO - diffusion.py - 2026-02-11 11:28:54,654 - Case L333: PSNR 28.316366739396077, SSIM 0.8685731606761036, time 4.855583429336548
+
+Generating image samples for FID evaluation.: 4it [00:29,  6.59s/it]INFO - diffusion.py - 2026-02-11 11:29:00,360 - Case L333: PSNR 28.063096904735225, SSIM 0.8787909939413248, time 4.829331398010254
+
+Generating image samples for FID evaluation.: 5it [00:35,  6.27s/it]INFO - diffusion.py - 2026-02-11 11:29:06,039 - Case L333: PSNR 28.82787755142812, SSIM 0.8941478230795845, time 4.82263970375061
+
+Generating image samples for FID evaluation.: 6it [00:40,  6.06s/it]INFO - diffusion.py - 2026-02-11 11:29:11,719 - Case L333: PSNR 29.057806261285993, SSIM 0.8982940288979467, time 4.826749086380005
+
+Generating image samples for FID evaluation.: 7it [00:46,  5.94s/it]INFO - diffusion.py - 2026-02-11 11:29:17,396 - Case L333: PSNR 29.65275322251203, SSIM 0.8958925248785582, time 4.823841571807861
+
+Generating image samples for FID evaluation.: 8it [00:52,  5.86s/it]INFO - diffusion.py - 2026-02-11 11:29:23,112 - Case L333: PSNR 29.995532197599392, SSIM 0.8883767509524543, time 4.827625036239624
+
+Generating image samples for FID evaluation.: 9it [00:57,  5.82s/it]INFO - diffusion.py - 2026-02-11 11:29:28,847 - Case L333: PSNR 29.966324525219385, SSIM 0.9040314327330948, time 4.852231979370117
+
+Generating image samples for FID evaluation.: 10it [01:03,  5.78s/it]INFO - diffusion.py - 2026-02-11 11:29:34,526 - Case L333: PSNR 30.405572565808438, SSIM 0.9180123388796709, time 4.829110383987427
+
+Generating image samples for FID evaluation.: 11it [01:09,  5.74s/it]INFO - diffusion.py - 2026-02-11 11:29:40,173 - Case L333: PSNR 30.19486843133021, SSIM 0.9133122390010932, time 4.827487945556641
+
+Generating image samples for FID evaluation.: 12it [01:14,  5.72s/it]INFO - diffusion.py - 2026-02-11 11:29:45,834 - Case L333: PSNR 30.32326564777348, SSIM 0.8984313243591144, time 4.829594373703003
+
+Generating image samples for FID evaluation.: 13it [01:20,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:29:51,509 - Case L333: PSNR 31.033073911379347, SSIM 0.8849459071126412, time 4.832291603088379
+
+Generating image samples for FID evaluation.: 14it [01:26,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:29:57,166 - Case L333: PSNR 30.94771329056329, SSIM 0.8894108984051503, time 4.831450700759888
+
+Generating image samples for FID evaluation.: 15it [01:31,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:30:02,877 - Case L333: PSNR 30.25730854306526, SSIM 0.8890497694050433, time 4.829484462738037
+
+Generating image samples for FID evaluation.: 16it [01:37,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:30:08,555 - Case L333: PSNR 30.36029842673205, SSIM 0.8812454655110871, time 4.832912921905518
+
+Generating image samples for FID evaluation.: 17it [01:43,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:30:14,247 - Case L333: PSNR 30.716406318167923, SSIM 0.8708649419077127, time 4.838420867919922
+
+Generating image samples for FID evaluation.: 18it [01:48,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:30:19,932 - Case L333: PSNR 30.80958242227839, SSIM 0.8602662768331403, time 4.834370374679565
+
+Generating image samples for FID evaluation.: 19it [01:54,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:30:26,977 - Case L333: PSNR 30.897758057749172, SSIM 0.8680347945415099, time 6.3017966747283936
+
+Generating image samples for FID evaluation.: 20it [02:00,  5.89s/it]
+Generating image samples for FID evaluation.: 20it [02:01,  6.05s/it]
+INFO - diffusion.py - 2026-02-11 11:30:27,072 - Average: PSNR 30.185147691278672, SSIM 0.8915936242871252, time 4.832814150386387
+Start inference on model of 580000 steps
+starting from image 1220
+Start training model on LDFDCT dataset.
+The inference sample type is generalized. The scheduler sampling type is uniform. The number of involved time steps is 10 out of 1000.
+The length of test set is: 610
+
+Generating image samples for FID evaluation.: 0it [00:00, ?it/s]INFO - diffusion.py - 2026-02-11 11:30:35,833 - Case L333: PSNR 32.014473110070284, SSIM 0.93776132984957, time 5.009174108505249
+
+Generating image samples for FID evaluation.: 1it [00:06,  6.00s/it]INFO - diffusion.py - 2026-02-11 11:30:41,416 - Case L333: PSNR 32.47115101337703, SSIM 0.9182950722926374, time 4.842610597610474
+
+Generating image samples for FID evaluation.: 2it [00:11,  5.79s/it]INFO - diffusion.py - 2026-02-11 11:30:47,064 - Case L333: PSNR 30.147132736985636, SSIM 0.8789525515232925, time 4.843106746673584
+
+Generating image samples for FID evaluation.: 3it [00:17,  5.76s/it]INFO - diffusion.py - 2026-02-11 11:30:52,763 - Case L333: PSNR 28.289306337992, SSIM 0.8659784582069848, time 4.8317036628723145
+
+Generating image samples for FID evaluation.: 4it [00:23,  5.74s/it]INFO - diffusion.py - 2026-02-11 11:30:58,491 - Case L333: PSNR 28.046977479347166, SSIM 0.8810928535533967, time 4.843477487564087
+
+Generating image samples for FID evaluation.: 5it [00:28,  5.73s/it]INFO - diffusion.py - 2026-02-11 11:31:04,180 - Case L333: PSNR 28.789850679969604, SSIM 0.885066459155557, time 4.821361541748047
+
+Generating image samples for FID evaluation.: 6it [00:34,  5.72s/it]INFO - diffusion.py - 2026-02-11 11:31:09,899 - Case L333: PSNR 29.024645201580725, SSIM 0.8929991048944533, time 4.825155735015869
+
+Generating image samples for FID evaluation.: 7it [00:40,  5.71s/it]INFO - diffusion.py - 2026-02-11 11:31:15,577 - Case L333: PSNR 29.6584042676723, SSIM 0.8964986906239887, time 4.824153900146484
+
+Generating image samples for FID evaluation.: 8it [00:45,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:31:21,268 - Case L333: PSNR 29.983559310834327, SSIM 0.893094999059472, time 4.82584810256958
+
+Generating image samples for FID evaluation.: 9it [00:51,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:31:26,961 - Case L333: PSNR 29.91468052634612, SSIM 0.9039607153968179, time 4.8296496868133545
+
+Generating image samples for FID evaluation.: 10it [00:57,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:31:32,654 - Case L333: PSNR 30.34830001799977, SSIM 0.9146400439769331, time 4.833657264709473
+
+Generating image samples for FID evaluation.: 11it [01:02,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:31:38,335 - Case L333: PSNR 30.149635772873804, SSIM 0.902080924722852, time 4.8280980587005615
+
+Generating image samples for FID evaluation.: 12it [01:08,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:31:44,002 - Case L333: PSNR 30.30162394742172, SSIM 0.9030098164794058, time 4.828195095062256
+
+Generating image samples for FID evaluation.: 13it [01:14,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:31:49,669 - Case L333: PSNR 31.094908981542943, SSIM 0.8971783288109819, time 4.829783201217651
+
+Generating image samples for FID evaluation.: 14it [01:19,  5.66s/it]INFO - diffusion.py - 2026-02-11 11:31:55,297 - Case L333: PSNR 30.961611058951178, SSIM 0.8931780099770549, time 4.830541610717773
+
+Generating image samples for FID evaluation.: 15it [01:25,  5.66s/it]INFO - diffusion.py - 2026-02-11 11:32:00,957 - Case L333: PSNR 30.233323609742694, SSIM 0.8880687654794073, time 4.83996057510376
+
+Generating image samples for FID evaluation.: 16it [01:31,  5.66s/it]INFO - diffusion.py - 2026-02-11 11:32:06,635 - Case L333: PSNR 30.320773706513595, SSIM 0.8782185654170184, time 4.8402419090271
+
+Generating image samples for FID evaluation.: 17it [01:36,  5.67s/it]INFO - diffusion.py - 2026-02-11 11:32:12,327 - Case L333: PSNR 30.688807135803668, SSIM 0.8672738571374009, time 4.845232725143433
+
+Generating image samples for FID evaluation.: 18it [01:42,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:32:18,024 - Case L333: PSNR 30.825826479752696, SSIM 0.8625419962056728, time 4.829426527023315
+
+Generating image samples for FID evaluation.: 19it [01:48,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:32:19,243 - Case L333: PSNR 31.01501312082136, SSIM 0.8727194699265445, time 0.4919133186340332
+
+Generating image samples for FID evaluation.: 20it [01:48,  4.14s/it]
+Generating image samples for FID evaluation.: 20it [01:48,  5.45s/it]
+INFO - diffusion.py - 2026-02-11 11:32:19,364 - Average: PSNR 30.17460614792543, SSIM 0.892560551325026, time 4.832900245984395
+Start inference on model of 600000 steps
+starting from image 2440
+Start training model on LDFDCT dataset.
+The inference sample type is generalized. The scheduler sampling type is uniform. The number of involved time steps is 10 out of 1000.
+The length of test set is: 610
+
+Generating image samples for FID evaluation.: 0it [00:00, ?it/s]INFO - diffusion.py - 2026-02-11 11:32:28,191 - Case L333: PSNR 31.925425034696616, SSIM 0.9234507788420747, time 5.022156476974487
+
+Generating image samples for FID evaluation.: 1it [00:06,  6.06s/it]INFO - diffusion.py - 2026-02-11 11:32:33,836 - Case L333: PSNR 32.441643804079334, SSIM 0.9239340232709833, time 4.853419303894043
+
+Generating image samples for FID evaluation.: 2it [00:11,  5.82s/it]INFO - diffusion.py - 2026-02-11 11:32:39,476 - Case L333: PSNR 30.156193793842064, SSIM 0.8892355499999532, time 4.846052885055542
+
+Generating image samples for FID evaluation.: 3it [00:17,  5.77s/it]INFO - diffusion.py - 2026-02-11 11:32:45,175 - Case L333: PSNR 28.28907680946426, SSIM 0.8667703550174732, time 4.83597207069397
+
+Generating image samples for FID evaluation.: 4it [00:23,  5.74s/it]INFO - diffusion.py - 2026-02-11 11:32:50,874 - Case L333: PSNR 28.050525684838718, SSIM 0.8848431184463575, time 4.839709281921387
+
+Generating image samples for FID evaluation.: 5it [00:28,  5.72s/it]INFO - diffusion.py - 2026-02-11 11:32:56,557 - Case L333: PSNR 28.769283138624473, SSIM 0.8883486803409556, time 4.838829517364502
+
+Generating image samples for FID evaluation.: 6it [00:34,  5.72s/it]INFO - diffusion.py - 2026-02-11 11:33:02,267 - Case L333: PSNR 29.07426767543809, SSIM 0.9028863608344673, time 4.837996959686279
+
+Generating image samples for FID evaluation.: 7it [00:40,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:33:07,953 - Case L333: PSNR 29.69312252695, SSIM 0.9017435165566717, time 4.847357273101807
+
+Generating image samples for FID evaluation.: 8it [00:45,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:33:13,650 - Case L333: PSNR 30.000249287176008, SSIM 0.8972453042648155, time 4.849799871444702
+
+Generating image samples for FID evaluation.: 9it [00:51,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:33:19,344 - Case L333: PSNR 29.899152254958683, SSIM 0.8993901269281508, time 4.838685750961304
+
+Generating image samples for FID evaluation.: 10it [00:57,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:33:25,036 - Case L333: PSNR 30.32178312910794, SSIM 0.9128499079278835, time 4.836960315704346
+
+Generating image samples for FID evaluation.: 11it [01:02,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:33:30,719 - Case L333: PSNR 30.15597838697872, SSIM 0.9115770611607688, time 4.838972091674805
+
+Generating image samples for FID evaluation.: 12it [01:08,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:33:36,372 - Case L333: PSNR 30.28400679096081, SSIM 0.899306457527875, time 4.835401773452759
+
+Generating image samples for FID evaluation.: 13it [01:14,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:33:42,045 - Case L333: PSNR 31.028513925746005, SSIM 0.894308859871727, time 4.832724571228027
+
+Generating image samples for FID evaluation.: 14it [01:19,  5.67s/it]INFO - diffusion.py - 2026-02-11 11:33:47,700 - Case L333: PSNR 30.949791109996916, SSIM 0.894533545951012, time 4.83623743057251
+
+Generating image samples for FID evaluation.: 15it [01:25,  5.67s/it]INFO - diffusion.py - 2026-02-11 11:33:53,363 - Case L333: PSNR 30.22897984282522, SSIM 0.8883523902766484, time 4.840027332305908
+
+Generating image samples for FID evaluation.: 16it [01:31,  5.67s/it]INFO - diffusion.py - 2026-02-11 11:33:59,037 - Case L333: PSNR 30.336247875889637, SSIM 0.8777427768673255, time 4.840433835983276
+
+Generating image samples for FID evaluation.: 17it [01:36,  5.67s/it]INFO - diffusion.py - 2026-02-11 11:34:04,705 - Case L333: PSNR 30.712614244369433, SSIM 0.872368265193892, time 4.841282367706299
+
+Generating image samples for FID evaluation.: 18it [01:42,  5.67s/it]INFO - diffusion.py - 2026-02-11 11:34:10,393 - Case L333: PSNR 30.76411165866205, SSIM 0.8633091480648268, time 4.840303897857666
+
+Generating image samples for FID evaluation.: 19it [01:48,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:34:11,611 - Case L333: PSNR 30.90318528483425, SSIM 0.8679032207197621, time 0.4852626323699951
+
+Generating image samples for FID evaluation.: 20it [01:48,  4.13s/it]
+Generating image samples for FID evaluation.: 20it [01:48,  5.45s/it]
+INFO - diffusion.py - 2026-02-11 11:34:11,730 - Average: PSNR 30.164585760257417, SSIM 0.8942394847810541, time 4.8405648072560625
+Start inference on model of 610000 steps
+starting from image 3660
+Start training model on LDFDCT dataset.
+The inference sample type is generalized. The scheduler sampling type is uniform. The number of involved time steps is 10 out of 1000.
+The length of test set is: 610
+
+Generating image samples for FID evaluation.: 0it [00:00, ?it/s]INFO - diffusion.py - 2026-02-11 11:34:20,709 - Case L333: PSNR 31.916241930434143, SSIM 0.9175993047390232, time 5.046778678894043
+
+Generating image samples for FID evaluation.: 1it [00:06,  6.07s/it]INFO - diffusion.py - 2026-02-11 11:34:26,339 - Case L333: PSNR 32.47368584064296, SSIM 0.9233935430354989, time 4.838796854019165
+
+Generating image samples for FID evaluation.: 2it [00:11,  5.82s/it]INFO - diffusion.py - 2026-02-11 11:34:31,981 - Case L333: PSNR 30.153961775331776, SSIM 0.8868129269599876, time 4.847066879272461
+
+Generating image samples for FID evaluation.: 3it [00:17,  5.76s/it]INFO - diffusion.py - 2026-02-11 11:34:37,674 - Case L333: PSNR 28.217030519130837, SSIM 0.8566113892369542, time 4.851589918136597
+
+Generating image samples for FID evaluation.: 4it [00:23,  5.76s/it]INFO - diffusion.py - 2026-02-11 11:34:43,423 - Case L333: PSNR 28.009325226188764, SSIM 0.8773095491738873, time 4.840165615081787
+
+Generating image samples for FID evaluation.: 5it [00:28,  5.74s/it]INFO - diffusion.py - 2026-02-11 11:34:49,129 - Case L333: PSNR 28.8090200271276, SSIM 0.8966624149815956, time 4.8328564167022705
+
+Generating image samples for FID evaluation.: 6it [00:34,  5.72s/it]INFO - diffusion.py - 2026-02-11 11:34:54,817 - Case L333: PSNR 29.004380434729725, SSIM 0.8934376556349093, time 4.8307435512542725
+
+Generating image samples for FID evaluation.: 7it [00:40,  5.72s/it]INFO - diffusion.py - 2026-02-11 11:35:00,520 - Case L333: PSNR 29.662982515145732, SSIM 0.9009772799017008, time 4.831948757171631
+
+Generating image samples for FID evaluation.: 8it [00:45,  5.71s/it]INFO - diffusion.py - 2026-02-11 11:35:06,223 - Case L333: PSNR 29.955047329940943, SSIM 0.8918353241557218, time 4.829690217971802
+
+Generating image samples for FID evaluation.: 9it [00:51,  5.71s/it]INFO - diffusion.py - 2026-02-11 11:35:11,932 - Case L333: PSNR 29.918596354725658, SSIM 0.9054301283636861, time 4.830921649932861
+
+Generating image samples for FID evaluation.: 10it [00:57,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:35:17,623 - Case L333: PSNR 30.34997850707956, SSIM 0.9158965639868034, time 4.836309909820557
+
+Generating image samples for FID evaluation.: 11it [01:03,  5.70s/it]INFO - diffusion.py - 2026-02-11 11:35:23,307 - Case L333: PSNR 30.14896655278473, SSIM 0.9126449221214059, time 4.842129707336426
+
+Generating image samples for FID evaluation.: 12it [01:08,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:35:28,980 - Case L333: PSNR 30.2881255511397, SSIM 0.8977586325271291, time 4.839433193206787
+
+Generating image samples for FID evaluation.: 13it [01:14,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:35:34,652 - Case L333: PSNR 31.043140048721064, SSIM 0.8942163318004048, time 4.837488889694214
+
+Generating image samples for FID evaluation.: 14it [01:20,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:35:40,330 - Case L333: PSNR 30.900971012056203, SSIM 0.8884085403860512, time 4.848990440368652
+
+Generating image samples for FID evaluation.: 15it [01:25,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:35:45,997 - Case L333: PSNR 30.18741455304538, SSIM 0.8829338387991303, time 4.83713436126709
+
+Generating image samples for FID evaluation.: 16it [01:31,  5.68s/it]INFO - diffusion.py - 2026-02-11 11:35:51,693 - Case L333: PSNR 30.27301038768675, SSIM 0.8751455118933502, time 4.835011959075928
+
+Generating image samples for FID evaluation.: 17it [01:37,  5.69s/it]INFO - diffusion.py - 2026-02-11 11:35:57,409 - Case L333: PSNR 30.642388904204303, SSIM 0.8655496343094329, time 4.836861848831177
+
+Generating image samples for FID evaluation.: 18it [01:42,  5.71s/it]INFO - diffusion.py - 2026-02-11 11:36:03,150 - Case L333: PSNR 30.714959653828988, SSIM 0.8514729429159549, time 4.836856126785278
+
+Generating image samples for FID evaluation.: 19it [01:48,  5.71s/it]INFO - diffusion.py - 2026-02-11 11:36:04,420 - Case L333: PSNR 30.724125359534842, SSIM 0.8270324431161024, time 0.4890711307525635
+
+Generating image samples for FID evaluation.: 20it [01:49,  4.16s/it]
+Generating image samples for FID evaluation.: 20it [01:49,  5.46s/it]
+INFO - diffusion.py - 2026-02-11 11:36:04,559 - Average: PSNR 30.142399210959507, SSIM 0.8910576242684528, time 4.837999794218275
+
+FileNotFoundError: [Errno 2] No such file or directory: './train_out/logs/ldfd_ddpm_run1/ckpt_700000.pth'
+
+

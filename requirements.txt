@@ -1,0 +1,22 @@
+# Minimal dependencies for DSAddpm (LDCT5NDCT DDPM) 
+# For exact reproducibility, prefer `pip freeze > requirements-lock.txt` or `conda env export --no-builds > environment.yml`.
+
+numpy
+scipy
+pandas
+PyYAML
+tqdm
+Pillow
+opencv-python
+scikit-image
+medpy
+lmdb
+matplotlib
+
+# Training / logging
+tensorboard
+tensorboardX
+
+# PyTorch (install appropriate CUDA build separately if needed)
+torch
+torchvision

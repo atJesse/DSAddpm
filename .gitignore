@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Data & outputs (do not commit)
+data/
+train_out/
+logs/
+tensorboard/
+image_samples/
+NoEMAlogs/
+NoEMAtensorboard/
+NoEMAimage_samples/
+
+# Checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Generated images / arrays
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.npy
+
+# Logs
+*.log
+stdout.txt
+
+# Conda exports / lockfiles (choose what you want to commit)
+# environment.yml
+# requirements-lock.txt
